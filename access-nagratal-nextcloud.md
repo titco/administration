@@ -29,5 +29,5 @@ Before you can start to upload data you first need to contact the core team so t
 12. Change your password
 
 ## Uploading
-If you are going to upload data to Nextcloud on nagratal, [follow the instructions here](upload-data-nextclud.md).
+If you are going to upload data to Nextcloud on nagratal, [follow the instructions here](upload-data-nextcloud.md).
 
